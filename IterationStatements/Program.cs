@@ -6,7 +6,7 @@ namespace IterationStatements
     public class Program
     {
         //LukeWarm Section: Create methods below
-        //Write a method that will print to the console all numbers 1000 through - 1000 ** done **
+        //Write a method that will print to the console all numbers 1000 through - 1000 
         static void PrintNumbers1000()
         {
 
@@ -17,7 +17,7 @@ namespace IterationStatements
 
         }
 
-        //Write a method that will print to the console numbers 3 through 999 by 3 each time ** done **
+        //Write a method that will print to the console numbers 3 through 999 by 3 each time 
 
         static void Skip()
         {
@@ -29,7 +29,7 @@ namespace IterationStatements
 
 
 
-        //Write a method to accept two integers as parameterss and check whether they are equal or not ** review **
+        //Write a method to accept two integers as parameterss and check whether they are equal or not 
 
         static void Equal(int a, int b)
         {
@@ -62,7 +62,7 @@ namespace IterationStatements
 
 
 
-            //Write a method to check whether a given number is positive or negative ** done**
+            //Write a method to check whether a given number is positive or negative 
             static void check()
             {
                 Console.WriteLine(" pick a number");
@@ -78,7 +78,7 @@ namespace IterationStatements
             }
 
 
-            //Write a method to read the age of a candidate and determine whether they can vote.    ** done **
+            //Write a method to read the age of a candidate and determine whether they can vote.    
 
             static void vote()
             {
@@ -99,7 +99,7 @@ namespace IterationStatements
             //TryParse()
 
             //Heatin Up Section:
-            //Write a method to check if an integer(from the user) is in the range -10 to 10 **done**
+            //Write a method to check if an integer(from the user) is in the range -10 to 10  
 
             static void Number()
             {
